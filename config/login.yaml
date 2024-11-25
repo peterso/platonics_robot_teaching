@@ -1,6 +1,6 @@
 #robot_ip: 172.16.0.4
 #username: t.coleman@tudelf.nl
 #password: PANDAISGREAT
-robot_ip: 172.16.0.2
-username: franka2
-password: pandaisgreat
+robot_ip: 176.16.3.1
+username: panda3
+password: panda_robot
