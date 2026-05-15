@@ -1,10 +1,10 @@
 ## Platonics Equipment
 - Franka Emika Panda robot aka *Aristotle*
 - The Franka Hand with two-finger gripper
-- Gripper inlet. [Download STL](./assets/finger_tips.STL)
 - [Intel NUC kit NUC10i7FNHN2](https://www.coolblue.nl/product/858939/intel-nuc-kit-nuc10i7fnhn2.html)
 - [Intel Realsense Camera D405](https://www.intelrealsense.com/depth-camera-d405/)
-- Camera mount. [Download STL](./assets/Camera_mount_realsense.STL)
+- Camera mount. [Download STL](./assets/franka_realsense_D405.stl)
+- Gripper inlet. [Download STL](./assets/inlet_franka.stl)
 
 ## Software Overview
 
